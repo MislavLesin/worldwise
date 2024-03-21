@@ -10,7 +10,7 @@
         "lat": 38.727881642324164,
         "lng": -9.140900099907554
       },
-      "id": 73930385
+      "id": "73930385"
     },
     {
       "cityName": "Madrid",
@@ -22,7 +22,7 @@
         "lat": 40.46635901755316,
         "lng": -3.7133789062500004
       },
-      "id": 17806751
+      "id": "17806751"
     },
     {
       "cityName": "Berlin",
@@ -34,7 +34,79 @@
         "lat": 52.53586782505711,
         "lng": 13.376933665713324
       },
-      "id": 98443197
+      "id": "98443197"
+    },
+    {
+      "id": "5ae0",
+      "cityName": "Zagreb",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-03-21T11:15:52.815Z",
+      "notes": "Testing...",
+      "position": {
+        "lat": "45.78292310139828",
+        "lng": "15.975417682216356"
+      }
+    },
+    {
+      "id": "485c",
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-03-21T11:18:17.891Z",
+      "notes": "In the future",
+      "position": {
+        "lat": "47.50097464849925",
+        "lng": "19.061369856336732"
+      }
+    },
+    {
+      "id": "8f3f",
+      "cityName": "Amelia",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-03-21T11:39:54.781Z",
+      "notes": "ameliaa",
+      "position": {
+        "lat": "42.55924201881685",
+        "lng": "12.456429393386916"
+      }
+    },
+    {
+      "id": "7aad",
+      "cityName": "Lipjan",
+      "country": "Republic of Kosovo",
+      "emoji": "🇽🇰",
+      "date": "2024-03-21T11:45:59.171Z",
+      "notes": "Testing!",
+      "position": {
+        "lat": "42.51869576189778",
+        "lng": "21.11179040542205"
+      }
+    },
+    {
+      "id": "9c27",
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-03-21T11:49:15.597Z",
+      "notes": "Testing",
+      "position": {
+        "lat": "48.15150647055661",
+        "lng": "16.264743873411586"
+      }
+    },
+    {
+      "id": "4c57",
+      "cityName": "Daszyna",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-03-21T11:51:19.458Z",
+      "notes": "nice",
+      "position": {
+        "lat": "52.14709255678077",
+        "lng": "19.211160865450477"
+      }
     }
   ]
 }
